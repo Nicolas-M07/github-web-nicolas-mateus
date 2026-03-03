@@ -1,4 +1,4 @@
 # github-web-nicolas-mateus
 ## sobre
-atividade prática github web
+atividade prática sobre o github web
 ## tecnlogias
